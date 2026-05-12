@@ -4,9 +4,9 @@
 
 2026: Democrats gain the House; Republicans hold the Senate narrowly. Trump retains executive tools but loses legislative freedom. Investigations, shutdown fights, court confrontations, and agency battles define 2027.
 
-2028: Gretchen Whitmer defeats JD Vance. The result is close but certified after litigation and state-level disputes. Democrats win by presenting competence, labor protection, abortion rights, anti-corruption, and AI-fraud safeguards. Republicans keep a large base but suffer from tariff/inflation fatigue, Trump exhaustion, and fear of dynastic MAGA.
+2028: a competence-and-checks Democrat defeats a MAGA-successor Republican. The result is close but certified after litigation and state-level disputes. Democrats win by presenting competence, labor protection, abortion rights, anti-corruption, and AI-fraud safeguards. Republicans keep a large base but suffer from tariff/inflation fatigue, Trump exhaustion, and fear of dynastic MAGA.
 
-2032: Tom Cotton defeats a Democratic successor coalition after the 2030 correction, disorder politics, labor anxiety, and cyber/fraud fatigue. The GOP campaign promises order, family protection, industrial strength, and hard power. It does not repeal AI; it nationalizes parts of the AI agenda.
+2032: an order-and-security Republican defeats a Democratic successor coalition after the 2030 correction, disorder politics, labor anxiety, and cyber/fraud fatigue. The GOP campaign promises order, family protection, industrial strength, and hard power. It does not repeal AI; it nationalizes parts of the AI agenda.
 
 ## Ukraine and Russia
 

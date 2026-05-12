@@ -9,9 +9,9 @@ export default function Home() {
         <h1>Machine Labor and Human Time</h1>
         <p className="subtitle">A future history of the decade when cheap, useful, partially reliable AI work collided with elections, war, markets, schools, churches, families, fraud, infrastructure, and institutional legitimacy.</p>
         <div className="hero-meta">
-          <span>Reading time: 55-70 minutes</span>
-          <span>Baseline path, not prophecy</span>
-          <span>Railway-ready editorial microsite</span>
+          <span>Reading time: 60-75 minutes</span>
+          <span>Modal scenario, roughly 25-35% likely</span>
+          <span>Alternatives mapped on Branch Points</span>
         </div>
         <div className="hero-actions">
           <Link className="button primary" href="/essay">Read the future history</Link>
@@ -25,7 +25,7 @@ export default function Home() {
         </article>
         <article className="lede-card accent">
           <h2>The spine</h2>
-          <p>Democrats take the House in 2026. Whitmer defeats Vance in 2028. Cotton wins an order-backlash election in 2032. Ukraine reaches an armed armistice. Taiwan faces a quarantine crisis, not invasion. AI becomes machine labor before institutions learn to govern it.</p>
+          <p>Democrats take the House in 2026. A competence-and-checks Democrat wins in 2028. An order-and-security Republican wins an order-backlash election in 2032. Ukraine reaches an armed armistice. Taiwan faces a quarantine crisis, not invasion. AI becomes machine labor before institutions learn to govern it.</p>
         </article>
       </section>
       <section className="container">

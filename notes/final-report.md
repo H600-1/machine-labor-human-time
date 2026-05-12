@@ -1,6 +1,6 @@
 # Final report
 
-Built a Railway-ready Next.js + TypeScript + Tailwind editorial microsite: Machine Labor and Human Time: A Future History, 2026-2035. The site includes a landing page, long future-history essay, filterable timeline, key forecasts, assumptions, branch points, forces map, signals to watch, and sources/method.
+Built a Next.js + TypeScript + Tailwind editorial microsite: Machine Labor and Human Time: A Future History, 2026-2035. The site includes a landing page, long future-history essay, filterable timeline, key forecasts, assumptions, branch points, forces map, signals to watch, and sources/method.
 
 Run locally:
 

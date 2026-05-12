@@ -6,7 +6,7 @@ export default function SourcesPage() {
       <div className="section-head wide">
         <p className="eyebrow">Sources and method</p>
         <h1>Grounding without turning the essay into a bibliography</h1>
-        <p>The site uses current evidence available by May 2026 as grounding. Future events after that point are scenario assumptions. Method: research, causal model, scenario spine, draft, harsh critique, red-team revision, and design QA.</p>
+        <p>The site uses current evidence available by May 2026 as grounding. The citations below ground specific empirical claims: agent task horizons, coding benchmarks, data-center power demand, fraud losses, Ukraine support, media trust, education guidance, and content provenance. They are not a full bibliography for a decade-spanning forecast. The political, religious, labor-pipeline, and institutional arguments are synthesis and scenario judgment. Read them as argued extrapolation, not sourced prediction.</p>
       </div>
       <div className="source-list">
         {sources.map((source) => (

@@ -16,9 +16,10 @@ export default function EssayPage() {
           {essaySections.map((section) => (
             <section key={section.id} id={section.id}>
               <h2>{section.year}</h2>
-              {section.body.split("\n\n").map((para, i) => (
-                i === 1 && section.id === "late-2026" ? <blockquote key={i}>{para}</blockquote> : <p key={i}>{para}</p>
-              ))}
+              {section.body.split("\n\n").map((para, i) => {
+                if (para.startsWith("### ")) return <h3 key={i}>{para.replace("### ", "")}</h3>;
+                return i === 1 && section.id === "late-2026" ? <blockquote key={i}>{para}</blockquote> : <p key={i}>{para}</p>;
+              })}
             </section>
           ))}
         </article>

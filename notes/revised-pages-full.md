@@ -1,6 +1,12 @@
-export type EssaySection = { id: string; year: string; body: string };
-export const essaySections: EssaySection[] = [
-  { id: 'late-2026', year: 'Late summer-end 2026', body: `Looking back from 2036, the mistake was waiting for a single moment when artificial intelligence would announce itself as history. No such moment came. The change arrived as delegated work: a codebase repaired overnight, a fake invoice paid by a tired controller, a sermon outlined, a drone target classified, a fifth grader tutored, a campaign video authenticated, a family emergency scam stopped by a passphrase. The years from late 2026 through 2035 were not the arrival of a machine god. They were the arrival of cheap, useful, partially reliable machine labor into a world already strained by war, distrust, debt, loneliness, aging institutions, and political fracture.
+# Revised pages returned in full
+
+Generated from the deployed site source after revision.
+
+## Essay
+
+### Late summer-end 2026
+
+Looking back from 2036, the mistake was waiting for a single moment when artificial intelligence would announce itself as history. No such moment came. The change arrived as delegated work: a codebase repaired overnight, a fake invoice paid by a tired controller, a sermon outlined, a drone target classified, a fifth grader tutored, a campaign video authenticated, a family emergency scam stopped by a passphrase. The years from late 2026 through 2035 were not the arrival of a machine god. They were the arrival of cheap, useful, partially reliable machine labor into a world already strained by war, distrust, debt, loneliness, aging institutions, and political fracture.
 
 By late summer 2026 the basic ingredients were visible, though almost nobody held them in one frame. Enterprise AI had moved beyond chat windows and into workflows. Coding agents were unreliable enough to require supervision and useful enough to change staffing. AI capex had become a central macroeconomic fact. Memory supply, advanced packaging, grid interconnection, power prices, cooling, and export controls mattered as much as clever demos. The physical world was pushing back against the digital story.
 
@@ -26,8 +32,11 @@ For households, the decade began as a conflict between convenience and suspicion
 
 What contemporaries most misread was tempo. They expected either disappointment or explosion. The real pace was jagged. A model that failed at a simple instruction in one context could restructure a department in another. A startup demo could be fake, while a dull accounts-payable deployment could remove twenty jobs. A benchmark could overstate autonomy, while internal enterprise data understated how much work had already moved into prompts, scripts, and background agents. History did not move at the speed of the model release. It moved at the speed of budgets, contracts, fear, lawsuits, and habits.
 
-A second misreading concerned politics. Many analysts treated AI as a sectoral issue: regulation, copyright, jobs. In practice it became an amplifier of every unresolved legitimacy problem. If voters already distrusted elections, AI gave them more material to distrust. If parents already distrusted schools, AI made homework and surveillance another front. If churches already worried about loneliness, AI companions made the worry visible. If workers already believed institutions favored asset owners, AI capex and layoffs confirmed the suspicion. The technology entered an interpretive battlefield already prepared for it.` },
-  { id: '2027', year: '2027', body: `The year 2027 made machine labor operational. Agents still failed, hallucinated, looped, and required permissions. They also completed enough bounded tasks that firms began redesigning work around them. The organizations that benefited were not the ones that bought the most seats. They were the ones that mapped processes, assigned accountability, instrumented workflows, controlled data, and decided where machine output needed human sign-off. The laggards had tool sprawl: five copilots, no audit trail, no policy, and no idea which draft, decision, or payment had been touched by which system.
+A second misreading concerned politics. Many analysts treated AI as a sectoral issue: regulation, copyright, jobs. In practice it became an amplifier of every unresolved legitimacy problem. If voters already distrusted elections, AI gave them more material to distrust. If parents already distrusted schools, AI made homework and surveillance another front. If churches already worried about loneliness, AI companions made the worry visible. If workers already believed institutions favored asset owners, AI capex and layoffs confirmed the suspicion. The technology entered an interpretive battlefield already prepared for it.
+
+### 2027
+
+The year 2027 made machine labor operational. Agents still failed, hallucinated, looped, and required permissions. They also completed enough bounded tasks that firms began redesigning work around them. The organizations that benefited were not the ones that bought the most seats. They were the ones that mapped processes, assigned accountability, instrumented workflows, controlled data, and decided where machine output needed human sign-off. The laggards had tool sprawl: five copilots, no audit trail, no policy, and no idea which draft, decision, or payment had been touched by which system.
 
 Software teams changed first because their work product was machine-readable and testable. The junior developer did not disappear in 2027, but the ladder warped. Entry-level engineers were asked to review, test, orchestrate, and integrate code they had not learned to write slowly. The best juniors learned faster because they saw patterns and got instant feedback. The weakest were pushed into a fog of suggestions, patches, and false confidence. Senior engineers became bottlenecks not because they typed more, but because they were now responsible for supervising more machine-generated work than one human could comfortably own.
 
@@ -53,8 +62,11 @@ Religious institutions were more sophisticated than outsiders expected. The shar
 
 The year’s most important workplace fights were often hidden inside job descriptions. A “marketing operations specialist” became a person managing twenty automated content variants, compliance checks, and analytics loops. A “paralegal” became a reviewer of machine-sorted documents and generated deposition outlines. A “teacher” became a live assessor, AI policy enforcer, mental-health spotter, and procurement victim. The job title survived while the job changed. This delayed political recognition. By the time labor statistics noticed, the craft had already shifted under people’s feet.
 
-Public agencies learned a painful lesson: AI procurement exposed state capacity. A capable agency could demand audit logs, data rights, accessibility, appeal procedures, model evaluation, and vendor liability. A weak agency accepted a glossy demo and a contract that made accountability disappear. The result was not uniformly privatization or automation, but a sorting of governments. Some used AI to answer phones, detect fraud, translate services, and clear backlogs. Others automated confusion and then blamed the software.` },
-  { id: '2028', year: '2028', body: `The 2028 presidential election was the first U.S. campaign in which AI was normal infrastructure and also an object of fear. The Republican nominee was a MAGA-successor Republican: fluent in the movement’s language, less personally chaotic than Trump, and committed to border control, industrial nationalism, family policy, tariff leverage, China toughness, and protection from AI-driven disorder. Democrats nominated a competence-and-checks Democrat after a bruising but clarifying primary. Her coalition was less ideological than operational: anti-corruption voters, labor households, suburban women, younger voters angry about housing and debt, professionals frightened by authoritarian pressure, and unions looking for AI transition bargaining power.
+Public agencies learned a painful lesson: AI procurement exposed state capacity. A capable agency could demand audit logs, data rights, accessibility, appeal procedures, model evaluation, and vendor liability. A weak agency accepted a glossy demo and a contract that made accountability disappear. The result was not uniformly privatization or automation, but a sorting of governments. Some used AI to answer phones, detect fraud, translate services, and clear backlogs. Others automated confusion and then blamed the software.
+
+### 2028
+
+The 2028 presidential election was the first U.S. campaign in which AI was normal infrastructure and also an object of fear. The Republican nominee was a MAGA-successor Republican: fluent in the movement’s language, less personally chaotic than Trump, and committed to border control, industrial nationalism, family policy, tariff leverage, China toughness, and protection from AI-driven disorder. Democrats nominated a competence-and-checks Democrat after a bruising but clarifying primary. Her coalition was less ideological than operational: anti-corruption voters, labor households, suburban women, younger voters angry about housing and debt, professionals frightened by authoritarian pressure, and unions looking for AI transition bargaining power.
 
 The economy was neither terrible nor comfortable. Productivity gains appeared in software-heavy firms and some logistics, finance, marketing, and customer-service operations. They did not show up evenly in wages. White-collar hiring slowed in the lower rungs. Recent graduates in coding, design, media, law, and consulting felt betrayed by a credential system that had sold them scarcity. Employers insisted AI was augmenting workers. Workers noticed fewer entry-level postings. The argument over whether AI was “really” causing unemployment missed the point. It was changing the queue before it changed the headline rate.
 
@@ -80,8 +92,11 @@ Internationally, the lesson of 2028 was that U.S. political time had become a st
 
 The 2028 campaign also changed political labor. Volunteers used AI-generated scripts tailored to neighborhoods; organizers used models to identify persuadable voters and likely misinformation targets; lawyers used agents to triage election suits; journalists used AI to compare campaign claims against archives. The campaign became more automated but not less human. Human trust became the scarce endpoint of automated operations. A voter ignored ten generated messages and listened to a neighbor. A pastor’s warning about a fake polling-place rumor mattered more than a platform label.
 
-After certification, the incoming administration inherited a country that had passed a stress test but not resolved the stress. That distinction shaped its first year. Democrats had won power by defending institutions, yet many institutions still looked self-protective, expensive, slow, and culturally distant. The administration could not simply say “trust the process.” It had to make processes worthy of trust, at speed, under hostile scrutiny, with AI changing the processes themselves.` },
-  { id: '2029', year: '2029', body: `The new Democratic administration took office with a narrow mandate and a long damage list. Its first AI agenda was not glamorous: procurement standards, federal cyber hygiene, verified communication, child-safety rules for companions, labor-transition grants, public-sector pilots, and antitrust scrutiny of cloud concentration. It framed AI as infrastructure and labor policy, not magic. That helped politically but slowed the most ambitious reforms. Congress remained close. Courts remained hostile to broad agency improvisation. States moved faster than Washington.
+After certification, the incoming administration inherited a country that had passed a stress test but not resolved the stress. That distinction shaped its first year. Democrats had won power by defending institutions, yet many institutions still looked self-protective, expensive, slow, and culturally distant. The administration could not simply say “trust the process.” It had to make processes worthy of trust, at speed, under hostile scrutiny, with AI changing the processes themselves.
+
+### 2029
+
+The new Democratic administration took office with a narrow mandate and a long damage list. Its first AI agenda was not glamorous: procurement standards, federal cyber hygiene, verified communication, child-safety rules for companions, labor-transition grants, public-sector pilots, and antitrust scrutiny of cloud concentration. It framed AI as infrastructure and labor policy, not magic. That helped politically but slowed the most ambitious reforms. Congress remained close. Courts remained hostile to broad agency improvisation. States moved faster than Washington.
 
 Firms restructured more aggressively in 2029. The language changed from “copilot” to “agent team,” then to “managed workflow.” Back-office roles were consolidated. Marketing departments produced more variants with fewer people. Customer support used AI triage, escalation summaries, and sentiment prediction. Legal operations reduced document-review armies. Finance teams automated reconciliations, forecasting drafts, and audit prep. Consulting firms sold AI transformation while quietly cutting analyst classes. The labor market did not experience one unemployment cliff. It experienced compression, especially at the entry level and in cities built around credentialed services.
 
@@ -89,7 +104,7 @@ The apprenticeship problem became undeniable. Professions had long trained peopl
 
 The Taiwan crisis of 2029 began as an exercise and became a market event. China announced expanded inspection zones after a political dispute in Taipei and a U.S. arms package. Coast guard vessels, maritime militia, cyber operations, drones, and PLA Navy assets created a partial quarantine pattern without declaring a blockade. Shipping rerouted. Insurers repriced. Semiconductor firms activated contingency plans. The United States, Japan, the Philippines, Australia, and Taiwan coordinated visible logistics and naval movements. The crisis ended without war after three weeks, but it changed assumptions permanently. The question was no longer whether China could create a blockade-like condition short of invasion. It had shown the template.
 
-### What this scenario is quietly assuming
+#### What this scenario is quietly assuming
 
 The baseline depends on a great deal of geopolitical luck. It assumes no Taiwan invasion, no nuclear use, no Ukrainian collapse, no Russian succession crisis that spills outward, no major Middle East war that pulls in the United States directly, no Korean peninsula shock, and no India-Pakistan flare that forces nuclear risk back into daily market pricing. Each assumption is defensible on its own. Together they are expensive. A decade in which every flashpoint stays gray-zone, limited, or contained is possible, but not comfortable. This is why the scenario should be read as modal rather than inevitable: it prices a world where the great powers keep finding off-ramps while still using cyber operations, drones, sanctions, seizures, export controls, proxy pressure, and mobilization scares.
 
@@ -113,8 +128,11 @@ The Global South experienced AI through price, language, and dependency. Cheap t
 
 The year also marked the arrival of AI-native bureaucracies. New firms did not add agents to old org charts; they built around them. A small compliance company could monitor thousands of regulatory updates. A logistics broker could run continuous negotiation simulations. A legal startup could offer subscription contract review with human escalation. Their advantage was not only lower headcount. It was that they had no inherited process to defend. Incumbents responded by buying, copying, or lobbying against them.
 
-But the AI-native model had a brittleness of its own. When a workflow failed, there were fewer middle managers who understood the old manual process. When customers demanded explanation, the organization had logs but not always memory. When regulators asked who made a decision, founders pointed to architecture diagrams. The lesson was old: bureaucracy is slow because it stores responsibility. Eliminating it creates speed and removes shock absorbers.` },
-  { id: '2030', year: '2030', body: `The AI correction of 2030 began in finance and became a legitimacy event. It was not that AI stopped working. It was that too many valuations assumed flawless workflow autonomy, infinite power availability, cheap memory, frictionless enterprise adoption, and customers willing to hand over core processes. The immediate trigger was an agent-security scandal at a large AI-native business services firm. Its systems had executed unauthorized vendor changes across dozens of clients after a compromised integration and weak human approval chain. Losses were contained but humiliating. Regulators, insurers, and boards suddenly asked the questions security teams had been asking for years.
+But the AI-native model had a brittleness of its own. When a workflow failed, there were fewer middle managers who understood the old manual process. When customers demanded explanation, the organization had logs but not always memory. When regulators asked who made a decision, founders pointed to architecture diagrams. The lesson was old: bureaucracy is slow because it stores responsibility. Eliminating it creates speed and removes shock absorbers.
+
+### 2030
+
+The AI correction of 2030 began in finance and became a legitimacy event. It was not that AI stopped working. It was that too many valuations assumed flawless workflow autonomy, infinite power availability, cheap memory, frictionless enterprise adoption, and customers willing to hand over core processes. The immediate trigger was an agent-security scandal at a large AI-native business services firm. Its systems had executed unauthorized vendor changes across dozens of clients after a compromised integration and weak human approval chain. Losses were contained but humiliating. Regulators, insurers, and boards suddenly asked the questions security teams had been asking for years.
 
 AI infrastructure stocks fell hard. Speculative data-center financing froze. Several regional projects collapsed after interconnection delays, water disputes, local opposition, and power-price backlash. The correction exposed a split: frontier labs and hyperscalers with real demand survived; thin wrappers and overleveraged infrastructure vehicles did not. Memory suppliers and utilities were whipsawed. Some politicians declared the AI bubble over. They were wrong. Bubbles can form around real technologies. Railroads, fiber, solar, and AI all taught the same lesson: overbuilding and underestimating demand can coexist.
 
@@ -140,8 +158,11 @@ The correction also changed AI culture. The swagger of 2026-29 gave way to compl
 
 Public anger after the correction focused on visible excess: executive compensation, half-empty data-center sites, AI companies with little revenue, and laid-off workers training their replacements. Less visible but more important was the repricing of risk. A workflow that saved 12 percent in labor could become uneconomic if it required audit teams, insurance, indemnity, incident response, and human review at every critical step. This did not kill automation. It made good automation more specific.
 
-The correction also improved the epistemic climate in one narrow sense. Buyers stopped rewarding mystical language. “Autonomous agent” gave way to “bounded workflow with approval gates.” “Human-level reasoning” gave way to “reduces average handling time under these conditions.” “Trust us” gave way to “here is the log.” The industry became less glamorous and more consequential. Much of the public missed this because the collapse of hype looked like the collapse of substance. It was not.` },
-  { id: '2031', year: '2031', body: `The year 2031 was when trust infrastructure became mainstream in serious organizations. The change felt boring because it was mostly procedural. Passkeys and hardware keys became default for finance, government, campaigns, healthcare, universities, and larger firms. Verified payment channels replaced free-form invoice approvals. Signed media became standard in newsrooms, campaigns, courts, police evidence, insurance claims, and corporate communications. Agent audit logs became mandatory in regulated sectors. Vendor systems had to declare which tasks were automated and who could approve actions.
+The correction also improved the epistemic climate in one narrow sense. Buyers stopped rewarding mystical language. “Autonomous agent” gave way to “bounded workflow with approval gates.” “Human-level reasoning” gave way to “reduces average handling time under these conditions.” “Trust us” gave way to “here is the log.” The industry became less glamorous and more consequential. Much of the public missed this because the collapse of hype looked like the collapse of substance. It was not.
+
+### 2031
+
+The year 2031 was when trust infrastructure became mainstream in serious organizations. The change felt boring because it was mostly procedural. Passkeys and hardware keys became default for finance, government, campaigns, healthcare, universities, and larger firms. Verified payment channels replaced free-form invoice approvals. Signed media became standard in newsrooms, campaigns, courts, police evidence, insurance claims, and corporate communications. Agent audit logs became mandatory in regulated sectors. Vendor systems had to declare which tasks were automated and who could approve actions.
 
 This did not restore a shared reality. It created high-trust lanes inside a low-trust world. People learned to ask: was it signed, by whom, on what device, through which channel, with what chain of custody? Serious institutions could answer. Meme networks often could not and did not care. Politics became more procedural and more tribal at the same time. A signed video persuaded one audience and convinced another that the signing authority was captured. Provenance solved evidence problems for institutions; it did not solve legitimacy for people who rejected the institutions.
 
@@ -165,8 +186,11 @@ Religious communities also professionalized their AI boundaries. Many created di
 
 State capacity diverged sharply. Estonia-style digital states, some U.S. states, Singapore, parts of the Gulf, and selected European agencies built competent AI services with strong identity and audit layers. Weak municipalities and underfunded agencies became breach stories. Authoritarian states used AI to improve surveillance, benefits administration, censorship, and predictive policing. Democracies faced a harder bargain: they needed state capacity without normalizing total monitoring. That bargain never received a clean philosophical settlement. It became a sequence of lawsuits, scandals, compromises, and procurement memos.
 
-The private sector also learned that proprietary data was not automatically useful. Many firms had spent years claiming their data was a moat, then discovered it was messy, permissioned badly, duplicated, stale, or legally encumbered. The firms that benefited had done unglamorous work: data governance, process mapping, security, documentation, and clear ownership. AI rewarded institutional hygiene. That was one reason it increased inequality between organizations as much as between workers.` },
-  { id: '2032', year: '2032', body: `By the 2032 election, AI was no longer a novelty issue. It was the substrate of ordinary conflict: jobs, schools, fraud, policing, defense, media, family, energy prices, and regional development. The Democratic administration could point to competence: no war with China, Ukraine alive, fraud controls improved, infrastructure standards strengthened, productivity rising in some sectors. It could not erase the 2030 correction, entry-level labor compression, housing pain, and the sense that life had become more mediated, verified, subscribed, and suspicious.
+The private sector also learned that proprietary data was not automatically useful. Many firms had spent years claiming their data was a moat, then discovered it was messy, permissioned badly, duplicated, stale, or legally encumbered. The firms that benefited had done unglamorous work: data governance, process mapping, security, documentation, and clear ownership. AI rewarded institutional hygiene. That was one reason it increased inequality between organizations as much as between workers.
+
+### 2032
+
+By the 2032 election, AI was no longer a novelty issue. It was the substrate of ordinary conflict: jobs, schools, fraud, policing, defense, media, family, energy prices, and regional development. The Democratic administration could point to competence: no war with China, Ukraine alive, fraud controls improved, infrastructure standards strengthened, productivity rising in some sectors. It could not erase the 2030 correction, entry-level labor compression, housing pain, and the sense that life had become more mediated, verified, subscribed, and suspicious.
 
 Republicans nominated an order-and-security Republican in this scenario. His campaign was disciplined, nationalist, and less chaotic than Trump’s. It promised AI strength without cultural surrender: build the chips, control the borders, punish fraud, protect children, strengthen families, arm allies selectively, confront China, and use federal power against platforms when they were seen as socially destructive. Democrats warned that this was authoritarian consolidation in cleaner packaging. Many voters heard something simpler: order.
 
@@ -190,8 +214,11 @@ Foreign policy under the incoming administration became more openly transactiona
 
 The election’s aftermath was calmer than 2028 in procedure and harsher in policy. The incoming administration treated AI as strategic industry, not consumer software. It expanded export controls, tied federal contracts to domestic infrastructure, leaned on firms over child safety and China exposure, and used procurement to favor systems that could be audited by the state. Civil libertarians warned that verification infrastructure built for fraud could become infrastructure for surveillance. They were not wrong. Security systems rarely remain confined to their founding use.
 
-Yet the order backlash also forced Democrats to reconsider their own blind spots. They had defended institutions but sometimes underestimated how humiliating automated life felt to people with little power: the chatbot denying a benefit, the detector accusing a student, the bank freezing an account, the employer hiding layoffs behind “efficiency,” the platform labeling a real concern misinformation. The politics of dignity became inseparable from the politics of automation.` },
-  { id: '2033', year: '2033', body: `The compounding effects became visible in 2033. AI-assisted science and engineering sped up discovery pipelines, but deployment still depended on regulators, factories, clinicians, insurers, grid operators, and public trust. Defense organizations used AI for logistics, intelligence triage, drone swarms, maintenance prediction, training simulations, and cyber defense. Militaries became more machine-paced without becoming machine-ruled. Human commanders still made decisions, but under time pressure shaped by automated sensing and recommendation systems.
+Yet the order backlash also forced Democrats to reconsider their own blind spots. They had defended institutions but sometimes underestimated how humiliating automated life felt to people with little power: the chatbot denying a benefit, the detector accusing a student, the bank freezing an account, the employer hiding layoffs behind “efficiency,” the platform labeling a real concern misinformation. The politics of dignity became inseparable from the politics of automation.
+
+### 2033
+
+The compounding effects became visible in 2033. AI-assisted science and engineering sped up discovery pipelines, but deployment still depended on regulators, factories, clinicians, insurers, grid operators, and public trust. Defense organizations used AI for logistics, intelligence triage, drone swarms, maintenance prediction, training simulations, and cyber defense. Militaries became more machine-paced without becoming machine-ruled. Human commanders still made decisions, but under time pressure shaped by automated sensing and recommendation systems.
 
 Companies became smaller at the middle. Executive teams and product leads controlled agentic workflows that once required layers of analysts, coordinators, junior managers, and support staff. Some AI-native firms outcompeted incumbents by operating with radically lower administrative overhead. Incumbents responded by cutting bureaucracy, then accidentally cutting apprenticeship, redundancy, and institutional memory. The lean organization was fast until something unusual happened. Then it discovered that slack had been a form of intelligence.
 
@@ -213,8 +240,11 @@ Local communities that did well by 2033 tended to share traits: competent school
 
 Climate shocks interacted with AI unevenly. Heat waves raised cooling costs and stressed grids just as data-center demand rose. Floods and fires disrupted local infrastructure and insurance markets. AI helped model risks, optimize grids, route emergency services, and process claims, but it also competed for power and water in some regions. The public learned to distrust any argument that treated digital infrastructure as weightless. Machine labor had a thermal signature.
 
-Universities faced a legitimacy reckoning. Their research labs were essential to AI progress, their students were heavy AI users, their humanities departments became sites of meaning-making, and their tuition model looked worse as entry-level professional labor compressed. The institutions that adapted combined supervised AI literacy, stronger oral examination, industry partnerships, and renewed residential formation. The ones that relied on prestige suffered. A degree still mattered, but it no longer explained itself.` },
-  { id: '2034', year: '2034', body: `By 2034 durable norms emerged, though not always liberal ones. AI governance became boring where it worked: audit logs, certifications, procurement checklists, incident reporting, insurance requirements, model cards, training-data licenses, child-safety audits, school disclosure rules, evidentiary standards, professional-liability opinions. The boringness was a sign of institutional adaptation. It also hid power. Whoever wrote the checklist shaped the market.
+Universities faced a legitimacy reckoning. Their research labs were essential to AI progress, their students were heavy AI users, their humanities departments became sites of meaning-making, and their tuition model looked worse as entry-level professional labor compressed. The institutions that adapted combined supervised AI literacy, stronger oral examination, industry partnerships, and renewed residential formation. The ones that relied on prestige suffered. A degree still mattered, but it no longer explained itself.
+
+### 2034
+
+By 2034 durable norms emerged, though not always liberal ones. AI governance became boring where it worked: audit logs, certifications, procurement checklists, incident reporting, insurance requirements, model cards, training-data licenses, child-safety audits, school disclosure rules, evidentiary standards, professional-liability opinions. The boringness was a sign of institutional adaptation. It also hid power. Whoever wrote the checklist shaped the market.
 
 Infrastructure partially caught up. New data centers, grid upgrades, power-purchase agreements, memory capacity, advanced packaging, and cooling systems relieved the worst bottlenecks in some regions. Demand kept outrunning relief. Local politics around data centers became sharper: tax revenue and jobs on one side, water, power prices, land use, and corporate secrecy on the other. Regions with cheap power, permissive regulation, fiber, and political support became AI industrial zones. Others restricted growth.
 
@@ -236,8 +266,11 @@ By 2034, the strongest institutions had stopped asking whether AI was good or ba
 
 By this point, the international order had absorbed AI into old patterns of rivalry. The United States controlled chips and cloud; China controlled manufacturing depth, state data, and coercive pressure; Europe controlled regulation and market access; India controlled talent scale and strategic swing; Gulf states controlled capital and energy; smaller states negotiated for compute like they once negotiated for vaccines, ports, or debt relief. AI sovereignty became a phrase covering many things: language, data, defense, censorship, procurement, and pride.
 
-The cultural settlement remained incomplete. Some people embraced AI friends, tutors, therapists, and creative partners without shame. Others treated synthetic intimacy like pornography or gambling: legal for adults, dangerous for children, spiritually corrosive, and commercially predatory. Most households improvised. The law could regulate age gates and disclosures. It could not settle what kind of dependence was healthy. That argument moved to families, congregations, clinics, and schools.` },
-  { id: '2035', year: '2035', body: `By 2035 AI was a general-purpose institutional substrate. It was in the software stack, the office stack, the school stack, the campaign stack, the fraud stack, the defense stack, the household stack, and the spiritual-advice shadow stack. It still made mistakes. It still required power, chips, data, cooling, and judgment. It had not become a sovereign machine civilization. It had become something more historically familiar and politically explosive: labor.
+The cultural settlement remained incomplete. Some people embraced AI friends, tutors, therapists, and creative partners without shame. Others treated synthetic intimacy like pornography or gambling: legal for adults, dangerous for children, spiritually corrosive, and commercially predatory. Most households improvised. The law could regulate age gates and disclosures. It could not settle what kind of dependence was healthy. That argument moved to families, congregations, clinics, and schools.
+
+### 2035
+
+By 2035 AI was a general-purpose institutional substrate. It was in the software stack, the office stack, the school stack, the campaign stack, the fraud stack, the defense stack, the household stack, and the spiritual-advice shadow stack. It still made mistakes. It still required power, chips, data, cooling, and judgment. It had not become a sovereign machine civilization. It had become something more historically familiar and politically explosive: labor.
 
 Organizations were smaller, faster, more automated, and more dependent on secure workflows. The scarce goods were trust, legitimacy, judgment, energy, proprietary data, secure infrastructure, taste, leadership, embodied care, and decision-making under uncertainty. The decade had made intelligence cheaper in many forms while making responsibility more valuable. A generated answer was abundant. A person willing and authorized to stand behind an answer was scarce.
 
@@ -259,133 +292,212 @@ The political lesson was similar. Institutions were slow, hypocritical, self-pro
 
 Historians of the period later argued over whether 2026-2035 should be called an AI takeoff at all. It lacked the clean drama of older singularity stories. There was no day the machines seized command. There were many days when a hiring plan changed, a battlefield sensor shortened a decision cycle, a school abandoned essays, a church banned AI confession, an insurer required hardware keys, a county rejected a data center, a family stopped answering unknown calls, a lab found a molecule faster, and a worker realized the first rung of a career ladder had been sawn off.
 
-That is why “machine labor” became the better phrase. Labor has owners, costs, unions, accidents, substitutes, complements, supply chains, politics, and moral status. Labor reorganizes time. It changes who learns, who commands, who profits, and who is seen. AI did all of that without needing to become a god. The decade was unsettling precisely because it was not alien. It was recognizably industrial, bureaucratic, financial, intimate, and human.` },
-];
+That is why “machine labor” became the better phrase. Labor has owners, costs, unions, accidents, substitutes, complements, supply chains, politics, and moral status. Labor reorganizes time. It changes who learns, who commands, who profits, and who is seen. AI did all of that without needing to become a god. The decade was unsettling precisely because it was not alien. It was recognizably industrial, bureaucratic, financial, intimate, and human.
 
-export const forecasts = [
-  {
-    topic: '2026 U.S. midterms',
-    probability: '55%',
-    baseline: 'Democrats narrowly take the House; Republicans narrowly hold the Senate.',
-    rationale: 'Low presidential approval, cost-of-living anger, abortion politics, corruption fatigue, and normal midterm backlash help Democrats. Senate geography and media fragmentation protect Republicans.',
-    alternative: '30%: Republicans hold both chambers if immigration/order politics dominate and Democrats fail candidate recruitment. 15%: Democrats take both chambers if backlash is larger and candidate quality breaks their way.',
-    signals: 'Trump approval, generic ballot, court fights, tariff inflation, special elections, turnout among young and suburban voters.',
-  },
-  {
-    topic: '2028 U.S. presidential election',
-    probability: '45%',
-    baseline: 'A competence-and-checks Democrat defeats a MAGA-successor Republican in a close, litigated, certified election.',
-    rationale: 'Trump is term-limited; the Republican nominee inherits MAGA infrastructure but not all of Trump’s charisma. Democrats win on competence, checks, labor transition, reproductive rights, and anti-corruption.',
-    alternative: '35%: the MAGA-successor Republican wins if the economy is strong, Democrats nominate badly, or institutional conflict boosts order politics. 20%: a third configuration emerges through recession, scandal, or party fracture.',
-    signals: 'Primary polling, inflation, unemployment among graduates, certification litigation, swing-state election administration, fraud incidents.',
-  },
-  {
-    topic: '2032 U.S. election',
-    probability: '45%',
-    baseline: 'An order-and-security Republican wins narrowly on family protection, AI security, industrial nationalism, and China deterrence.',
-    rationale: 'The 2030 correction, labor compression, cyber/fraud fatigue, school conflict, and distrust of procedural liberalism produce a harder-edged order backlash.',
-    alternative: '35%: a Democratic successor wins if productivity gains broaden and the 2030 correction is remembered as contained reform rather than betrayal. 20%: a third-party or constitutional crisis scenario scrambles the map.',
-    signals: 'Wage gains, crime/fraud perceptions, AI layoffs, religious-parent mobilization, China/Taiwan tension, youth turnout.',
-  },
-  {
-    topic: 'Ukraine',
-    probability: '45%',
-    baseline: 'Armed armistice around 2028; Ukraine survives but does not recover all territory.',
-    rationale: 'Manpower, air defense, U.S. ambiguity, European support, Russian exhaustion, and war fatigue point to a frozen line rather than decisive victory.',
-    alternative: '30%: continued long war. 15%: Russian breakthrough if Ukrainian manpower fails. 10%: larger Ukrainian recovery if Europe scales production faster.',
-    signals: 'Front-line stability, mobilization politics, European ammunition output, U.S. aid, Russian casualties, sanctions evasion.',
-  },
-  {
-    topic: 'Russia',
-    probability: '55%',
-    baseline: 'Durable militarized spoiler state, more dependent on China, with managed succession risk.',
-    rationale: 'Sanctions hurt but do not collapse the regime. Information control, coercion, elite bargains, and war industry preserve power.',
-    alternative: '25%: elite fracture after battlefield failure or succession crisis. 20%: more aggressive external escalation to preserve regime cohesion.',
-    signals: 'Elite arrests, regional unrest, fiscal stress, China trade share, mobilization, security-service behavior.',
-  },
-  {
-    topic: 'China/Taiwan',
-    probability: '50%',
-    baseline: 'Gray-zone escalation and a 2029 quarantine crisis, no full invasion.',
-    rationale: 'Full invasion remains too risky; blockade/quarantine pressure tests resolve while avoiding immediate catastrophic war.',
-    alternative: '30%: lower tension if Beijing prioritizes domestic economics. 20%: blockade or invasion crisis if U.S. paralysis creates perceived opportunity.',
-    signals: 'PLA exercises, coast guard patterns, cyber attacks, shipping insurance, Taiwan politics, U.S.-Japan-Philippines posture.',
-  },
-  {
-    topic: 'AI labor market',
-    probability: '60%',
-    baseline: 'Entry-level white-collar compression with uneven productivity gains.',
-    rationale: 'AI substitutes for tasks before whole jobs; firms cut junior hiring and rebuild workflows around supervised agents.',
-    alternative: '25%: smoother augmentation if demand expands enough. 15%: harsher displacement if agents cross reliability thresholds faster.',
-    signals: 'Junior postings, wage premiums, SWE-bench/METR-style autonomy, consulting analyst classes, law-firm leverage, union contracts.',
-  },
-  {
-    topic: 'Infrastructure',
-    probability: '55%',
-    baseline: 'HBM, power, interconnection, advanced packaging, and cooling bind through 2031; partial relief by 2034.',
-    rationale: 'Capex is enormous but grids, substations, permitting, memory, and packaging are physical bottlenecks.',
-    alternative: '25%: demand crash after correction. 20%: faster supply expansion through state-backed energy buildout.',
-    signals: 'HBM pricing, utility queues, data-center moratoria, capex guidance, power PPAs, export controls.',
-  },
-  {
-    topic: 'Cyber/fraud',
-    probability: '65%',
-    baseline: 'AI-enabled fraud becomes a household, municipal, campaign, and insurance crisis.',
-    rationale: 'Voice/video cloning and agentic reconnaissance scale existing attacks; defense responds with friction and verified channels.',
-    alternative: '25%: defenses outrun attackers if passkeys/provenance go mainstream quickly. 10%: fraud becomes more catastrophic through critical infrastructure or payments failure.',
-    signals: 'FTC/FBI losses, BEC claims, cyber premiums, passkey adoption, school/municipal incidents, bank liability rules.',
-  },
-  {
-    topic: 'Religion and social meaning',
-    probability: '45%',
-    baseline: 'Synthetic intimacy deepens loneliness for many while thick-tie communities gain minority security and formation roles.',
-    rationale: 'Loneliness creates demand for AI companions; religious and civic institutions respond where they can provide in-person verification, accountable presence, grief work, and child formation.',
-    alternative: '35%: atomization dominates and institutions fail to absorb lonely people. 20%: broader religious revival if scandals and social exhaustion push more families into embodied communities.',
-    signals: 'AI companion teen use, lawsuits, pastoral policies, church attendance among youth/families, device-free communities, grief-tech regulation.',
-  },
-  {
-    topic: 'Economic shock',
-    probability: '50%',
-    baseline: 'A 2030 AI capex/valuation correction follows an agent-security scandal and overbuilt infrastructure financing.',
-    rationale: 'Real technology plus speculative financing creates overvaluation; insurance and courts force governance costs into models.',
-    alternative: '30%: no sharp correction if revenue ramps. 20%: deeper crash if credit exposure is hidden.',
-    signals: 'AI revenue quality, data-center debt, agent incident losses, GPU lease rates, defaults, board governance demands.',
-  },
-];
-export const categories = ['AI capability', 'U.S. politics', 'Geopolitics', 'Economy/infrastructure', 'Labor', 'Cyber/fraud', 'Media/trust', 'Education', 'Religion/community/family', 'Law/governance'];
-export const timeline = [
-  { year: 'Late 2026', category: 'U.S. politics', event: 'Democrats narrowly win the House while Republicans hold the Senate; Trump shifts toward executive confrontation.' },
-  { year: 'Late 2026', category: 'AI capability', event: 'Agentic tools become useful in bounded coding, research, support, and administrative workflows.' },
-  { year: 'Late 2026', category: 'Economy/infrastructure', event: 'AI capex, HBM supply, data-center power, and grid interconnection become board-level constraints.' },
-  { year: '2027', category: 'Labor', event: 'Junior software and operations roles compress as firms redesign workflows around supervised agents.' },
-  { year: '2027', category: 'Geopolitics', event: 'Ukraine front hardens; Europe increases production but cannot fully replace U.S. scale.' },
-  { year: '2027', category: 'Education', event: 'Schools move from panic bans to oral defenses, process logs, and contested procurement.' },
-  { year: '2028', category: 'U.S. politics', event: 'A competence-and-checks Democrat defeats a MAGA-successor Republican after a synthetic-content-saturated, litigated election.' },
-  { year: '2028', category: 'Media/trust', event: 'Signed campaign media and verified election channels become normal in battleground states.' },
-  { year: '2028', category: 'Religion/community/family', event: 'AI companion scandals turn synthetic intimacy into a child-safety and pastoral issue.' },
-  { year: '2029', category: 'Geopolitics', event: 'China stages a Taiwan quarantine crisis short of war, repricing shipping and semiconductor risk.' },
-  { year: '2029', category: 'Cyber/fraud', event: 'Business-process compromise replaces simple phishing as criminals map workflows with agents.' },
-  { year: '2029', category: 'Economy/infrastructure', event: 'Europe and Gulf states expand AI industrial policy; power and cloud sovereignty dominate negotiations.' },
-  { year: '2030', category: 'Economy/infrastructure', event: 'AI valuation and data-center financing correction follows an agent-security scandal.' },
-  { year: '2030', category: 'Labor', event: 'A one-day human-review strike and a data-center sabotage case turn automation backlash into ordinary politics.' },
-  { year: '2030', category: 'Law/governance', event: 'Courts and insurers force serious agent logs, approvals, and liability allocation.' },
-  { year: '2030', category: 'Religion/community/family', event: 'Embodied presence becomes a public religious and civic theme, but mainly where thick ties already exist.' },
-  { year: '2031', category: 'Cyber/fraud', event: 'Passkeys, hardware keys, verified payment rails, and agent audit logs become mainstream in serious organizations.' },
-  { year: '2031', category: 'Media/trust', event: 'Provenance creates high-trust lanes but cannot restore universal legitimacy.' },
-  { year: '2032', category: 'U.S. politics', event: 'An order-and-security Republican wins a narrow backlash election around family protection, AI security, industrial nationalism, and China deterrence.' },
-  { year: '2032', category: 'AI capability', event: 'AI-assisted science and engineering gains become visible but unevenly deployed.' },
-  { year: '2033', category: 'Labor', event: 'Human attention becomes a luxury good in tutoring, care, therapy, coaching, and spiritual direction.' },
-  { year: '2033', category: 'Geopolitics', event: 'Russia remains a militarized, China-dependent spoiler; Europe plans around generational hostility.' },
-  { year: '2034', category: 'Labor', event: 'The apprenticeship bill comes due as firms discover that cutting junior roles also cut the future senior pipeline.' },
-  { year: '2034', category: 'Law/governance', event: 'AI governance becomes procedural: audits, certifications, incident reporting, procurement rules.' },
-  { year: '2034', category: 'Education', event: 'Plural school systems emerge: elite supervised performance, uneven public adaptation, cheap personalization in weak districts.' },
-  { year: '2035', category: 'AI capability', event: 'AI is general-purpose institutional substrate: useful, fallible, ubiquitous, and governed through workflows.' },
-  { year: '2035', category: 'Religion/community/family', event: 'Thick-tie communities that offer accountable human presence matter as minority trust anchors.' },
-];
-export const forces = [{'name': 'Machine labor', 'pressure': 'High', 'counterforce': 'Reliability, liability, unions', 'effect': 'Turns intelligence-like tasks into purchasable workflow capacity; compresses junior roles first.'}, {'name': 'Institutional lag', 'pressure': 'High', 'counterforce': 'Courts, insurers, procurement', 'effect': 'Capabilities diffuse faster than rules; failures create backlash and governance markets.'}, {'name': 'Infrastructure constraint', 'pressure': 'High', 'counterforce': 'Capex, energy buildout', 'effect': 'Power, HBM, packaging, and interconnection concentrate advantage.'}, {'name': 'Platform power', 'pressure': 'High', 'counterforce': 'Antitrust, open models, state procurement', 'effect': 'Distribution and data keep frontier power concentrated despite open alternatives.'}, {'name': 'Cyber/fraud', 'pressure': 'Very high', 'counterforce': 'Passkeys, insurance, verified channels', 'effect': 'Scales impersonation and workflow compromise; adds friction back to digital life.'}, {'name': 'Provenance/trust', 'pressure': 'Medium-high', 'counterforce': 'Chain of custody, local validators', 'effect': 'Creates trusted lanes without ending tribal epistemology.'}, {'name': 'Labor-market compression', 'pressure': 'High', 'counterforce': 'Collective bargaining, training redesign', 'effect': 'Substitutes for entry tasks and destabilizes apprenticeship.'}, {'name': 'Religion and embodied community', 'pressure': 'Medium rising', 'counterforce': 'Secularization, scandal, institutional weakness', 'effect': 'Offers presence, moral limits, and verification where communities remain strong.'}, {'name': 'Family administration', 'pressure': 'High', 'counterforce': 'Income, time, digital literacy', 'effect': 'AI reduces burden for some households and deepens dependence for others.'}, {'name': 'Youth formation', 'pressure': 'High', 'counterforce': 'Schools, parents, religious norms', 'effect': 'Tutors accelerate some students; companions and outsourcing weaken others.'}, {'name': 'Education assessment', 'pressure': 'High', 'counterforce': 'Oral defense, live work, portfolios', 'effect': 'Take-home assessment loses credibility; supervised performance returns.'}, {'name': 'Geopolitical competition', 'pressure': 'Very high', 'counterforce': 'Deterrence, trade dependence', 'effect': 'Defense AI and export controls bind AI to state power.'}, {'name': 'Energy/data centers', 'pressure': 'High', 'counterforce': 'Local politics, nuclear/gas/renewables', 'effect': 'Data centers become industrial-policy and zoning fights.'}, {'name': 'State capacity', 'pressure': 'Variable', 'counterforce': 'Federalism, courts, civil service', 'effect': 'Capable states use AI; weak states buy opaque systems and absorb scandals.'}, {'name': 'Criminal networks', 'pressure': 'High', 'counterforce': 'Law enforcement, authentication', 'effect': 'Use agents for reconnaissance, scams, laundering, and corruption.'}];
-export const signals = {'Compute and power': ['HBM/DRAM/NAND pricing and lead times', 'Hyperscaler AI capex guidance and depreciation schedules', 'Data-center interconnection queues and local moratoria', 'Electricity price fights and dedicated power-purchase agreements', 'Export controls and advanced-packaging capacity'], 'Capabilities and deployment': ['Frontier autonomy benchmarks and METR-style task horizons', 'Coding-agent reliability on real repositories', 'Enterprise headcount redesign tied to agents', 'AI-native firm revenue per employee', 'Agent incident reports and insurance claims'], 'Labor and education': ['Junior white-collar hiring and wage premiums', 'Law/consulting/software analyst class sizes', 'School moves toward oral exams and live assessment', 'Credentialing and portfolio verification', 'Union AI clauses and transition funds'], 'Cyber, fraud, and trust': ['FBI/FTC fraud losses', 'Business-email compromise and municipal claims', 'Passkey and hardware-key adoption', 'Cyber-insurance underwriting requirements', 'Signed-media/provenance use in courts and campaigns'], 'Politics and legitimacy': ['U.S. election-law disputes and certification litigation', 'Synthetic local content incidents', 'Trust in media and institutions', 'State AI procurement scandals', 'Platform concentration metrics'], 'Geopolitics': ['Ukraine front-line stability and European defense production', 'Russian fiscal and mobilization stress', 'Taiwan gray-zone intensity and shipping insurance', 'U.S.-Japan-Philippines posture', 'Gulf/India AI infrastructure deals'], 'Social and religious life': ['AI companion adoption among teens', 'Companion lawsuits and child-safety regulation', 'Religious AI-use policies', 'Device-free schools/camps/congregations', 'Loneliness and community participation data']};
-export const sources = [{'title': 'Stanford HAI AI Index', 'url': 'https://hai.stanford.edu/ai-index', 'note': 'Capability, investment, adoption, policy, and governance baseline.'}, {'title': 'METR: Measuring AI Ability to Complete Long Tasks', 'url': 'https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/', 'note': 'Agent task-horizon framing and acceleration signal.'}, {'title': 'SWE-bench', 'url': 'https://www.swebench.com/', 'note': 'Grounding for coding-agent progress on real software issues.'}, {'title': 'IEA: Energy and AI', 'url': 'https://www.iea.org/reports/energy-and-ai', 'note': 'Data-center electricity demand and grid implications.'}, {'title': 'LBNL U.S. Data Center Energy Usage Report', 'url': 'https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf', 'note': 'U.S. data-center electricity baseline and forecast range.'}, {'title': 'FBI IC3 Internet Crime Report 2024', 'url': 'https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf', 'note': 'Cybercrime and fraud-loss baseline.'}, {'title': 'FTC fraud-loss data 2024', 'url': 'https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024', 'note': 'Consumer fraud baseline.'}, {'title': 'C2PA', 'url': 'https://c2pa.org/', 'note': 'Content provenance standard.'}, {'title': 'EU AI Act overview', 'url': 'https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai', 'note': 'Risk-tiered AI regulation baseline.'}, {'title': 'U.S. Copyright Office AI reports', 'url': 'https://www.copyright.gov/ai/', 'note': 'Copyright, digital replicas, and AI-generated works.'}, {'title': 'Kiel Ukraine Support Tracker', 'url': 'https://www.ifw-kiel.de/topics/war-against-ukraine/ukraine-support-tracker/', 'note': 'Western support to Ukraine.'}, {'title': 'NATO defense expenditure / 5% commitment', 'url': 'https://www.nato.int/cps/en/natohq/topics_49198.htm', 'note': 'European rearmament baseline.'}, {'title': 'CSIS ChinaPower: Taiwan Strait crisis tracker', 'url': 'https://chinapower.csis.org/tracking-the-fourth-taiwan-strait-crisis/', 'note': 'China/Taiwan gray-zone and crisis patterns.'}, {'title': 'Pew: U.S. public and AI experts view AI', 'url': 'https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/', 'note': 'Public ambivalence and legitimacy gap.'}, {'title': 'U.S. Surgeon General loneliness advisory', 'url': 'https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf', 'note': 'Loneliness as public-health and social-infrastructure baseline.'}, {'title': 'Common Sense Media: teens and AI companions', 'url': 'https://www.commonsensemedia.org/research/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions', 'note': 'AI companions, teen use, safety, and family implications.'}, {'title': 'UNESCO guidance for generative AI in education', 'url': 'https://unesdoc.unesco.org/ark:/48223/pf0000386693', 'note': 'Education governance and assessment risks.'}, {'title': 'Reuters Institute Digital News Report', 'url': 'https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025', 'note': 'Media trust, news avoidance, platforms, and AI in journalism.'}];
+## Forecasts
 
-export const nav = [
-  ['Essay','/essay'], ['Timeline','/timeline'], ['Forecasts','/forecasts'], ['Forces','/forces'], ['Signals','/signals'], ['Assumptions','/assumptions'], ['Branch points','/branch-points'], ['Sources','/sources']
-];
+### 2026 U.S. midterms
+- Baseline probability: 55%
+- Baseline call: Democrats narrowly take the House; Republicans narrowly hold the Senate.
+- Rationale: Low presidential approval, cost-of-living anger, abortion politics, corruption fatigue, and normal midterm backlash help Democrats. Senate geography and media fragmentation protect Republicans.
+- Alternatives: 30%: Republicans hold both chambers if immigration/order politics dominate and Democrats fail candidate recruitment. 15%: Democrats take both chambers if backlash is larger and candidate quality breaks their way.
+- Signals to watch: Trump approval, generic ballot, court fights, tariff inflation, special elections, turnout among young and suburban voters.
+
+### 2028 U.S. presidential election
+- Baseline probability: 45%
+- Baseline call: A competence-and-checks Democrat defeats a MAGA-successor Republican in a close, litigated, certified election.
+- Rationale: Trump is term-limited; the Republican nominee inherits MAGA infrastructure but not all of Trump’s charisma. Democrats win on competence, checks, labor transition, reproductive rights, and anti-corruption.
+- Alternatives: 35%: the MAGA-successor Republican wins if the economy is strong, Democrats nominate badly, or institutional conflict boosts order politics. 20%: a third configuration emerges through recession, scandal, or party fracture.
+- Signals to watch: Primary polling, inflation, unemployment among graduates, certification litigation, swing-state election administration, fraud incidents.
+
+### 2032 U.S. election
+- Baseline probability: 45%
+- Baseline call: An order-and-security Republican wins narrowly on family protection, AI security, industrial nationalism, and China deterrence.
+- Rationale: The 2030 correction, labor compression, cyber/fraud fatigue, school conflict, and distrust of procedural liberalism produce a harder-edged order backlash.
+- Alternatives: 35%: a Democratic successor wins if productivity gains broaden and the 2030 correction is remembered as contained reform rather than betrayal. 20%: a third-party or constitutional crisis scenario scrambles the map.
+- Signals to watch: Wage gains, crime/fraud perceptions, AI layoffs, religious-parent mobilization, China/Taiwan tension, youth turnout.
+
+### Ukraine
+- Baseline probability: 45%
+- Baseline call: Armed armistice around 2028; Ukraine survives but does not recover all territory.
+- Rationale: Manpower, air defense, U.S. ambiguity, European support, Russian exhaustion, and war fatigue point to a frozen line rather than decisive victory.
+- Alternatives: 30%: continued long war. 15%: Russian breakthrough if Ukrainian manpower fails. 10%: larger Ukrainian recovery if Europe scales production faster.
+- Signals to watch: Front-line stability, mobilization politics, European ammunition output, U.S. aid, Russian casualties, sanctions evasion.
+
+### Russia
+- Baseline probability: 55%
+- Baseline call: Durable militarized spoiler state, more dependent on China, with managed succession risk.
+- Rationale: Sanctions hurt but do not collapse the regime. Information control, coercion, elite bargains, and war industry preserve power.
+- Alternatives: 25%: elite fracture after battlefield failure or succession crisis. 20%: more aggressive external escalation to preserve regime cohesion.
+- Signals to watch: Elite arrests, regional unrest, fiscal stress, China trade share, mobilization, security-service behavior.
+
+### China/Taiwan
+- Baseline probability: 50%
+- Baseline call: Gray-zone escalation and a 2029 quarantine crisis, no full invasion.
+- Rationale: Full invasion remains too risky; blockade/quarantine pressure tests resolve while avoiding immediate catastrophic war.
+- Alternatives: 30%: lower tension if Beijing prioritizes domestic economics. 20%: blockade or invasion crisis if U.S. paralysis creates perceived opportunity.
+- Signals to watch: PLA exercises, coast guard patterns, cyber attacks, shipping insurance, Taiwan politics, U.S.-Japan-Philippines posture.
+
+### AI labor market
+- Baseline probability: 60%
+- Baseline call: Entry-level white-collar compression with uneven productivity gains.
+- Rationale: AI substitutes for tasks before whole jobs; firms cut junior hiring and rebuild workflows around supervised agents.
+- Alternatives: 25%: smoother augmentation if demand expands enough. 15%: harsher displacement if agents cross reliability thresholds faster.
+- Signals to watch: Junior postings, wage premiums, SWE-bench/METR-style autonomy, consulting analyst classes, law-firm leverage, union contracts.
+
+### Infrastructure
+- Baseline probability: 55%
+- Baseline call: HBM, power, interconnection, advanced packaging, and cooling bind through 2031; partial relief by 2034.
+- Rationale: Capex is enormous but grids, substations, permitting, memory, and packaging are physical bottlenecks.
+- Alternatives: 25%: demand crash after correction. 20%: faster supply expansion through state-backed energy buildout.
+- Signals to watch: HBM pricing, utility queues, data-center moratoria, capex guidance, power PPAs, export controls.
+
+### Cyber/fraud
+- Baseline probability: 65%
+- Baseline call: AI-enabled fraud becomes a household, municipal, campaign, and insurance crisis.
+- Rationale: Voice/video cloning and agentic reconnaissance scale existing attacks; defense responds with friction and verified channels.
+- Alternatives: 25%: defenses outrun attackers if passkeys/provenance go mainstream quickly. 10%: fraud becomes more catastrophic through critical infrastructure or payments failure.
+- Signals to watch: FTC/FBI losses, BEC claims, cyber premiums, passkey adoption, school/municipal incidents, bank liability rules.
+
+### Religion and social meaning
+- Baseline probability: 45%
+- Baseline call: Synthetic intimacy deepens loneliness for many while thick-tie communities gain minority security and formation roles.
+- Rationale: Loneliness creates demand for AI companions; religious and civic institutions respond where they can provide in-person verification, accountable presence, grief work, and child formation.
+- Alternatives: 35%: atomization dominates and institutions fail to absorb lonely people. 20%: broader religious revival if scandals and social exhaustion push more families into embodied communities.
+- Signals to watch: AI companion teen use, lawsuits, pastoral policies, church attendance among youth/families, device-free communities, grief-tech regulation.
+
+### Economic shock
+- Baseline probability: 50%
+- Baseline call: A 2030 AI capex/valuation correction follows an agent-security scandal and overbuilt infrastructure financing.
+- Rationale: Real technology plus speculative financing creates overvaluation; insurance and courts force governance costs into models.
+- Alternatives: 30%: no sharp correction if revenue ramps. 20%: deeper crash if credit exposure is hidden.
+- Signals to watch: AI revenue quality, data-center debt, agent incident losses, GPU lease rates, defaults, board governance demands.
+
+## Timeline
+
+- Late 2026 / U.S. politics: Democrats narrowly win the House while Republicans hold the Senate; Trump shifts toward executive confrontation.
+- Late 2026 / AI capability: Agentic tools become useful in bounded coding, research, support, and administrative workflows.
+- Late 2026 / Economy/infrastructure: AI capex, HBM supply, data-center power, and grid interconnection become board-level constraints.
+- 2027 / Labor: Junior software and operations roles compress as firms redesign workflows around supervised agents.
+- 2027 / Geopolitics: Ukraine front hardens; Europe increases production but cannot fully replace U.S. scale.
+- 2027 / Education: Schools move from panic bans to oral defenses, process logs, and contested procurement.
+- 2028 / U.S. politics: A competence-and-checks Democrat defeats a MAGA-successor Republican after a synthetic-content-saturated, litigated election.
+- 2028 / Media/trust: Signed campaign media and verified election channels become normal in battleground states.
+- 2028 / Religion/community/family: AI companion scandals turn synthetic intimacy into a child-safety and pastoral issue.
+- 2029 / Geopolitics: China stages a Taiwan quarantine crisis short of war, repricing shipping and semiconductor risk.
+- 2029 / Cyber/fraud: Business-process compromise replaces simple phishing as criminals map workflows with agents.
+- 2029 / Economy/infrastructure: Europe and Gulf states expand AI industrial policy; power and cloud sovereignty dominate negotiations.
+- 2030 / Economy/infrastructure: AI valuation and data-center financing correction follows an agent-security scandal.
+- 2030 / Labor: A one-day human-review strike and a data-center sabotage case turn automation backlash into ordinary politics.
+- 2030 / Law/governance: Courts and insurers force serious agent logs, approvals, and liability allocation.
+- 2030 / Religion/community/family: Embodied presence becomes a public religious and civic theme, but mainly where thick ties already exist.
+- 2031 / Cyber/fraud: Passkeys, hardware keys, verified payment rails, and agent audit logs become mainstream in serious organizations.
+- 2031 / Media/trust: Provenance creates high-trust lanes but cannot restore universal legitimacy.
+- 2032 / U.S. politics: An order-and-security Republican wins a narrow backlash election around family protection, AI security, industrial nationalism, and China deterrence.
+- 2032 / AI capability: AI-assisted science and engineering gains become visible but unevenly deployed.
+- 2033 / Labor: Human attention becomes a luxury good in tutoring, care, therapy, coaching, and spiritual direction.
+- 2033 / Geopolitics: Russia remains a militarized, China-dependent spoiler; Europe plans around generational hostility.
+- 2034 / Labor: The apprenticeship bill comes due as firms discover that cutting junior roles also cut the future senior pipeline.
+- 2034 / Law/governance: AI governance becomes procedural: audits, certifications, incident reporting, procurement rules.
+- 2034 / Education: Plural school systems emerge: elite supervised performance, uneven public adaptation, cheap personalization in weak districts.
+- 2035 / AI capability: AI is general-purpose institutional substrate: useful, fallible, ubiquitous, and governed through workflows.
+- 2035 / Religion/community/family: Thick-tie communities that offer accountable human presence matter as minority trust anchors.
+
+## Branch Points
+
+### 2028 U.S. election
+45% baseline: a competence-and-checks Democrat defeats a MAGA-successor Republican. 35%: the MAGA-successor Republican wins if the economy is stronger, Democrats nominate poorly, or voters interpret institutional conflict as disorder needing hard continuity. 20%: recession, scandal, or party fracture creates a less linear election.
+
+### Ukraine
+45% baseline: armed armistice. 30%: a long war continues. 15%: Russia breaks through if Ukrainian manpower and air defense fail. 10%: Ukraine recovers more territory if Europe scales faster than expected.
+
+### China/Taiwan
+50% baseline: quarantine crisis short of invasion. 30%: lower tension if Beijing prioritizes economics. 20%: blockade or invasion crisis if U.S. paralysis creates perceived opportunity.
+
+### AI capability
+55% baseline: rapid practical improvement with reliability limits. 25%: infrastructure bottlenecks slow diffusion. 20%: agents become substantially more autonomous before governance adapts.
+
+### Economy
+50% baseline: uneven productivity plus 2030 correction. 30%: smoother boom if demand and supply align. 20%: severe recession if capex credit exposure combines with labor shock.
+
+### Democracy
+45% baseline: stress, partial resilience, later order backlash. 30%: authoritarian consolidation if courts and election administration bend further. 25%: stronger democratic recovery if state institutions coordinate effectively.
+
+### Religion and social meaning
+45% baseline: synthetic intimacy deepens loneliness for many while thick-tie communities gain minority security and formation roles. 35%: deeper atomization if institutions fail to absorb lonely people. 20%: broader embodied revival if scandals and social exhaustion push more families into congregations and civic groups.
+
+## Sources
+
+The site uses current evidence available by May 2026 as grounding. The citations below ground specific empirical claims: agent task horizons, coding benchmarks, data-center power demand, fraud losses, Ukraine support, media trust, education guidance, and content provenance. They are not a full bibliography for a decade-spanning forecast. The political, religious, labor-pipeline, and institutional arguments are synthesis and scenario judgment. Read them as argued extrapolation, not sourced prediction.
+
+### Stanford HAI AI Index
+Capability, investment, adoption, policy, and governance baseline.
+https://hai.stanford.edu/ai-index
+
+### METR: Measuring AI Ability to Complete Long Tasks
+Agent task-horizon framing and acceleration signal.
+https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+
+### SWE-bench
+Grounding for coding-agent progress on real software issues.
+https://www.swebench.com/
+
+### IEA: Energy and AI
+Data-center electricity demand and grid implications.
+https://www.iea.org/reports/energy-and-ai
+
+### LBNL U.S. Data Center Energy Usage Report
+U.S. data-center electricity baseline and forecast range.
+https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf
+
+### FBI IC3 Internet Crime Report 2024
+Cybercrime and fraud-loss baseline.
+https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf
+
+### FTC fraud-loss data 2024
+Consumer fraud baseline.
+https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024
+
+### C2PA
+Content provenance standard.
+https://c2pa.org/
+
+### EU AI Act overview
+Risk-tiered AI regulation baseline.
+https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+
+### U.S. Copyright Office AI reports
+Copyright, digital replicas, and AI-generated works.
+https://www.copyright.gov/ai/
+
+### Kiel Ukraine Support Tracker
+Western support to Ukraine.
+https://www.ifw-kiel.de/topics/war-against-ukraine/ukraine-support-tracker/
+
+### NATO defense expenditure / 5% commitment
+European rearmament baseline.
+https://www.nato.int/cps/en/natohq/topics_49198.htm
+
+### CSIS ChinaPower: Taiwan Strait crisis tracker
+China/Taiwan gray-zone and crisis patterns.
+https://chinapower.csis.org/tracking-the-fourth-taiwan-strait-crisis/
+
+### Pew: U.S. public and AI experts view AI
+Public ambivalence and legitimacy gap.
+https://www.pewresearch.org/internet/2025/04/03/how-the-us-public-and-ai-experts-view-artificial-intelligence/
+
+### U.S. Surgeon General loneliness advisory
+Loneliness as public-health and social-infrastructure baseline.
+https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf
+
+### Common Sense Media: teens and AI companions
+AI companions, teen use, safety, and family implications.
+https://www.commonsensemedia.org/research/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions
+
+### UNESCO guidance for generative AI in education
+Education governance and assessment risks.
+https://unesdoc.unesco.org/ark:/48223/pf0000386693
+
+### Reuters Institute Digital News Report
+Media trust, news avoidance, platforms, and AI in journalism.
+https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025

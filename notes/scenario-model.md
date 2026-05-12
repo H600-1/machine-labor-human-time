@@ -7,8 +7,8 @@ Baseline: faster AI takeoff, no terminal calamity. AI becomes cheap, useful, par
 ## Baseline calls
 
 - 2026 U.S. midterms: Democrats narrowly take the House; Republicans hold the Senate by a small margin. Trump loses legislative ease but retains executive power.
-- 2028 U.S. presidential election: Democrat Gretchen Whitmer defeats Republican JD Vance after a legitimacy-disputed but ultimately certified election. The campaign turns on cost of living, corruption, labor anxiety, AI fraud, abortion/family policy, and exhaustion with Trumpism.
-- 2032 U.S. presidential election: Republican Tom Cotton wins a narrow victory over the incumbent Democratic coalition's nominee after recession scars, cyber/fraud fatigue, and an order-and-family backlash. The governing coalition is nationalist, pro-defense, pro-industrial-policy, and selective about AI regulation.
+- 2028 U.S. presidential election: a competence-and-checks Democrat defeats a MAGA-successor Republican after a legitimacy-disputed but ultimately certified election. The campaign turns on cost of living, corruption, labor anxiety, AI fraud, abortion/family policy, and exhaustion with Trumpism.
+- 2032 U.S. presidential election: An order-and-security Republican wins a narrow victory over the incumbent Democratic coalition's nominee after recession scars, cyber/fraud fatigue, and an order-and-family backlash. The governing coalition is nationalist, pro-defense, pro-industrial-policy, and selective about AI regulation.
 - Ukraine: the front largely stabilizes in 2027-28 into an armed armistice without a full peace. Ukraine remains sovereign, battered, European-armed, and outside restored 1991 borders. Russia keeps Crimea and portions of occupied east/south, pays a sanctions and dependency cost, and remains dangerous.
 - Russia: regime durability through Putin or a managed successor; no liberal revolution. Russia becomes a poorer, militarized, China-dependent spoiler state.
 - China/Taiwan: repeated blockade rehearsals, cyber pressure, maritime quarantine crisis in 2029, no full invasion. Taiwan remains de facto autonomous but under higher permanent pressure.

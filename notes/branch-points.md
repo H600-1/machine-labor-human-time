@@ -1,6 +1,6 @@
 # Branch points
 
-1. 2028 U.S. election: baseline Democratic win. Alternative: Vance wins if economy is strong, Trump approval recovers, and Democrats nominate a culturally weak candidate.
+1. 2028 U.S. election: baseline Democratic win. Alternative: the MAGA-successor Republican wins if economy is strong, Trump approval recovers, and Democrats nominate a culturally weak candidate.
 2. Ukraine: baseline armed armistice. Alternative: continued long war if negotiations fail; Russian breakthrough if Ukrainian manpower/air defense fail; Ukrainian gains if Europe scales production faster than expected.
 3. Taiwan: baseline blockade/quarantine crisis short of war. Alternative: lower tension if China prioritizes economics; higher risk if U.S. political paralysis creates perceived opportunity.
 4. AI capability: baseline rapid practical improvement with reliability limits. Alternative: infrastructure bottleneck slows diffusion; or agents become substantially more autonomous before governance adapts.
