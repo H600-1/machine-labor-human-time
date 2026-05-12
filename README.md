@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Machine Labor and Human Time
 
-## Getting Started
+A public-facing editorial future-history microsite covering late summer 2026 through 2035 in a faster AI takeoff world that avoids only the terminal worst outcomes.
 
-First, run the development server:
+Stack: Next.js 16, TypeScript, Tailwind CSS.
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm run start
+```
 
-## Learn More
+## Deploy on Railway
 
-To learn more about Next.js, take a look at the following resources:
+1. Push this directory to a GitHub repository.
+2. In Railway, create a new project from the GitHub repo.
+3. Use the default Node builder. If Railway asks:
+   - Build command: `npm run build`
+   - Start command: `npm run start`
+4. No database, secrets, or paid dependencies are required.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contents
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Landing page with scenario frame and navigation.
+- Long future-history essay from the vantage point of 2036.
+- Filterable timeline from late summer 2026 through 2035.
+- Key forecasts with baseline call, rationale, alternative, and signals.
+- Forces map.
+- Signals to watch.
+- Scenario assumptions and branch points.
+- Sources and method.
+- Local notes under `/notes` documenting research, causal model, political forecast, red-team critique, design critique, and final report.
 
-## Deploy on Vercel
+## Caveat
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is scenario analysis, not prophecy. It uses current evidence available by May 2026 and makes explicit baseline assumptions for later events.

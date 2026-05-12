@@ -1,65 +1,51 @@
-import Image from "next/image";
+import Link from "next/link";
+import { forecasts, nav } from "@/lib/content";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main>
+      <section className="hero">
+        <p className="eyebrow">Scenario analysis · written from 2036 · late summer 2026-2035</p>
+        <h1>Machine Labor and Human Time</h1>
+        <p className="subtitle">A future history of the decade when cheap, useful, partially reliable AI work collided with elections, war, markets, schools, churches, families, fraud, infrastructure, and institutional legitimacy.</p>
+        <div className="hero-meta">
+          <span>Reading time: 55-70 minutes</span>
+          <span>Baseline path, not prophecy</span>
+          <span>Railway-ready editorial microsite</span>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <div className="hero-actions">
+          <Link className="button primary" href="/essay">Read the future history</Link>
+          <Link className="button" href="/forecasts">Inspect the baseline calls</Link>
         </div>
-      </main>
-    </div>
+      </section>
+      <section className="container intro-grid">
+        <article className="lede-card">
+          <h2>The frame</h2>
+          <p>This is not a generic AI forecast. It follows one plausible baseline: faster AI takeoff without terminal catastrophe. The world avoids extinction, total nuclear war, permanent civilizational collapse, and a clean rogue-AI takeover. It does not avoid democratic stress, labor shocks, cybercrime, market correction, war pressure, religious backlash, or institutional failure.</p>
+        </article>
+        <article className="lede-card accent">
+          <h2>The spine</h2>
+          <p>Democrats take the House in 2026. Whitmer defeats Vance in 2028. Cotton wins an order-backlash election in 2032. Ukraine reaches an armed armistice. Taiwan faces a quarantine crisis, not invasion. AI becomes machine labor before institutions learn to govern it.</p>
+        </article>
+      </section>
+      <section className="container">
+        <div className="section-head">
+          <p className="eyebrow">Navigate</p>
+          <h2>Read by argument, chronology, or evidence</h2>
+        </div>
+        <div className="nav-grid">
+          {nav.map(([label, href]) => <Link key={href} href={href}>{label}<span>→</span></Link>)}
+        </div>
+      </section>
+      <section className="container">
+        <div className="section-head">
+          <p className="eyebrow">Baseline calls</p>
+          <h2>Forecasts the essay commits to</h2>
+        </div>
+        <div className="forecast-grid compact">
+          {forecasts.slice(0, 6).map((f) => <article className="forecast-card" key={f.topic}><p className="eyebrow">{f.topic}</p><h3>{f.baseline}</h3><p>{f.rationale}</p></article>)}
+        </div>
+      </section>
+    </main>
   );
 }
